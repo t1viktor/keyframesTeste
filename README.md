@@ -2,7 +2,7 @@
 
 Esta é uma landing page simples para testar animações com keyframes.
 
-![Imagem de Exemplo](./keyTest.png)
+![Imagem de Exemplo](/keyTest.png)
 
 ## Descrição
 
